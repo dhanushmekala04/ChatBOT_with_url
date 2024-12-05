@@ -1,5 +1,5 @@
 
-### **WebChat: AI-Powered Conversational Interface for Website Content Exploration**
+## **WebChat: AI-Powered Conversational Interface for Website Content Exploration**
 
 ### Overview
 
