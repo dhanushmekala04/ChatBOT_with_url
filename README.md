@@ -72,3 +72,4 @@ project_root/
 - Ensure that the website URL provided is accessible and contains relevant information for the chat functionality.
 
 ### Video Demonstration
+[![Watch the video](https://raw.githubusercontent.com/username/repository/main/path/to/video.mp4)
