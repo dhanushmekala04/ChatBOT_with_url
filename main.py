@@ -13,8 +13,8 @@ import streamlit as st
 from langchain_core.messages import AIMessage, HumanMessage
 
 # Constants
-api_key = "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"
-DB_DIR = "C:\\Users\\HP\\OneDrive\\Desktop\\New folder (3)\\db"
+api_key = ""
+DB_DIR = ""
 
 # Function to get Groq LLM
 def get_groq_llm():
