@@ -1,4 +1,6 @@
 
+### *WebChat: AI-Powered Conversational Interface for Website Content Exploration*
+
 ### Overview
 
 This project creates a Streamlit app that allows users to chat with websites using AI. It uses LangChain to retrieve information from web pages and generate responses to user queries.
@@ -72,4 +74,5 @@ project_root/
 - Ensure that the website URL provided is accessible and contains relevant information for the chat functionality.
 
 ### Video Demonstration
-[![Watch the video](https://raw.githubusercontent.com/username/repository/main/path/to/video.mp4)
+[![Watch the video](https://github.com/dhanushmekala04/chatwithurl/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(3).mp4
+)
